@@ -134,6 +134,14 @@ export default {
         ],
         "txRegex": ETHERSCAN_REGEX
     },
+    "269": {
+        "supported": true,
+        "monitored": true,
+        "contractFetchAddress": "https://hpbscan.org" + ETHERSCAN_SUFFIX,
+        "rpc": [
+            "https://hpbnode.com"
+        ],
+        "txRegex": ETHERSCAN_REGEX
     "42220": {
         "supported": true,
         "monitored": true,
